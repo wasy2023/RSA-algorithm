@@ -1,0 +1,6 @@
+﻿  Cripto_Lab_4.cpp
+C:\Users\wasy\source\repos\Cripto_Lab_4\Cripto_Lab_4\Cripto_Lab_4.cpp(103,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wasy\source\repos\Cripto_Lab_4\Cripto_Lab_4\Cripto_Lab_4.cpp(92,14): warning C4101: 'yes': unreferenced local variable
+C:\Users\wasy\source\repos\Cripto_Lab_4\Cripto_Lab_4\Cripto_Lab_4.cpp(204,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\wasy\source\repos\Cripto_Lab_4\Cripto_Lab_4\Cripto_Lab_4.cpp(205,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Cripto_Lab_4.vcxproj -> C:\Users\wasy\source\repos\Cripto_Lab_4\x64\Debug\Cripto_Lab_4.exe
